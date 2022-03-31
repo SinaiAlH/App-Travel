@@ -1,4 +1,4 @@
-# Travel-App Project
+# App-Travel Project Udacity
 
 ## Overview
 This project requires building a travel application that, at a minimum, obtains the desired location and date of travel from the user, and displays the weather and an image of the location using information obtained from external APIs.
